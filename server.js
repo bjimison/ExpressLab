@@ -1,5 +1,6 @@
   const express = require('express');
   const app = express();
+
   const bootStrap = require('bootstrap');
 
   // $('body').alert('This alert came from Bootstrap');
